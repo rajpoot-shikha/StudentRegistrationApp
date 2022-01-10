@@ -1,5 +1,7 @@
 # StudentRegistrationApp
 
+Practised how the collection framework can be used to carry the group of objects from one layer to another layer.
+
 
 ### Enrolling Students!
 
